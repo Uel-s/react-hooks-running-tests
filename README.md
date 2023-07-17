@@ -231,7 +231,7 @@ test("displays the text 'please pass this test'", () => {
 ```
 
 Now when we run the tests, we'll get a nice representation of what the DOM looks
-like for our rendered component printed in the console:
+qqlike for our rendered component printed in the console:
 
 ```html
 <body>
